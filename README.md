@@ -5,8 +5,6 @@
   <img src="https://file.garden/aZ-zcdQfIBB49ZZv/image_2026-10-20_191116231.png" width="200" alt="" />
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ramodric&label=lesbians&color=612826&style=flat-square" />
-</p>
 
 
 <p align="center">
