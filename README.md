@@ -1,8 +1,8 @@
 <p align="center">
-  <sub>"my moon, my man."</sub>
+  <sub>"hala madrid y nada mas"</sub>
 </p>
 <p align="center">
-  <img src="https://files.catbox.moe/mpkwuw.png" width="600" alt="" />
+  <img src="https://file.garden/aZ-zcdQfIBB49ZZv/image_2026-10-20_191116231.png" width="200" alt="" />
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ramodric&label=lesbians&color=612826&style=flat-square" />
@@ -12,8 +12,7 @@
 <p align="center">
   <img src="https://files.catbox.moe/l70cit.gif" width="100" alt="funny gif" />
 </p>
-<p align="center">
-  <img src="https://files.catbox.moe/sqlfsm.png" width="650" alt="funny gif" />
+
 </p>
 <p align="center">━━━━━━ ✦ ━━━━━━</p>
 <p align="left">
