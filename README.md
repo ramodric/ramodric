@@ -10,7 +10,7 @@
 
 
 <p align="center">
-  <img src="https://files.catbox.moe/l70cit.gif" width="100" alt="funny gif" />
+  <img src="https://file.garden/aZ-zcdQfIBB49ZZv/47e85bc307ddbd2dd2af13ab5d75cc52.gif" width="100" alt="funny gif" />
 </p>
 
 </p>
