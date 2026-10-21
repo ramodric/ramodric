@@ -3,9 +3,7 @@
 </p>
 <p align="center">
   <img src="https://file.garden/aZ-zcdQfIBB49ZZv/image_2026-10-20_191116231.png" width="200" alt="" />
-</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ramodric&style=flat-square&color=blue)
 
 <p align="center">
   <img src="https://file.garden/aZ-zcdQfIBB49ZZv/47e85bc307ddbd2dd2af13ab5d75cc52.gif" width="100" alt="funny gif" />
