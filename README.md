@@ -16,7 +16,7 @@
 </p>
 <!-- Center-aligned underlined link -->
 <p align="center">
-  <a href="https://rentry.co/magnusl" style="text-decoration: underline;">rentry</a>
+  <a href= style="text-decoration: underline;">discord:  coupletherapys</a>
 </p>
 
 <!-- Right-aligned underlined link -->
